@@ -5,7 +5,7 @@ description: >-
   A development blog for Gutterfly
 lang: en-US
 timezone:  America/New_York
-#repo: https://github.com/p0wex/Gesko # site repo [optional]
+repo: https://github.com/NateStanley/natestanley.github.io # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 discus-identifier: NathanStanley # replace with your disqus shortname
 
